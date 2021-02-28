@@ -1,6 +1,6 @@
   
 <h1 align = "center"> Hi there, I am Jiyoung 🤩 </h1>
-<h3 align = "center"> 😎I want to be a software engineer </h3>
+<h3 align = "center"> 😎 I want to be a software engineer </h3>
 <p align ="left">
 - 🔭 I’m currently working on portfolio
 <p align ="left">
