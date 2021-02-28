@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbuni1023&theme=omni&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebbuni1023)](https://github.com/ebbuni1023/github-readme-stats)
 
