@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning full stack development skills!
-
+- 🧠 I'm majoring in Computer Science and minoring in Mathematics!
 
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbuni1023&theme=omni&show_icons=true)
 
