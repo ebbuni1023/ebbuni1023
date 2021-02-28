@@ -1,14 +1,23 @@
-### Here is what I'm working on! 👋
-
-
+  
+<h1 align = "center"> Hi there, I am Jiyoung 🤩 </h1>
+<h3 align = "center"> I want to be a software engineer </h3>
+<p align ="left">
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning full stack development skills!
 - 🧠 I'm majoring in Computer Science and minoring in Mathematics!
+- 👀 I'm currently working on cool project
+- 😻 I love cats!
+</p>
 
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbuni1023&theme=omni&show_icons=true)
 
-- 💪 My Development Toolbelt
 
+<br>
+
+
+<h3 align = "center"> 💪 My Development Toolbelt </h3>
+
+<p align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -22,7 +31,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
-
-
+</p>
 
 
