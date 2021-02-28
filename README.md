@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbuni1023&theme=omni&show_icons=true)
-![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbuni1023&hide=contribs,prs)
 
-![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbuni1023&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ebbuni1023/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebbuni1023&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebbuni1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebbuni1023)](https://github.com/ebbuni1023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebbuni1023&langs_count=8)](https://github.com/ebbuni1023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebbuni1023&layout=compact)](https://github.com/ebbuni1023/github-readme-stats)
 
